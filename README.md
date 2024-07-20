@@ -1,4 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BennyZhang-Codes)](https://github.com/BennyZhang-Codes/github-readme-stats)
+
 <!--
 **BennyZhang-Codes/BennyZhang-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

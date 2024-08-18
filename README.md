@@ -7,7 +7,7 @@
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="80"/></a>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=consolas&size=40&duration=1000&pause=1000&color=2D9CCD&center=true&width=435&height=60&lines=Hey%EF%BC%81;Nice+to+see+you%EF%BC%81" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=consolas&size=40&duration=1000&pause=1000&color=2D9CCD&center=false&width=435&height=60&lines=Hey%EF%BC%81;Nice+to+see+you%EF%BC%81" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,12 +15,13 @@
   <img src="https://cdn.pixabay.com/photo/2016/12/03/22/30/tiger-1880782_1280.png" width="450" class="centered">
 </p>
 
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BennyZhang-Codes&layout=compact&theme=transparent)
 
 [![BennyZhang-Codes GitHub stats](https://github-readme-stats.vercel.app/api?username=BennyZhang-Codes)](https://github.com/BennyZhang-Codes/BennyZhang-Codes)
 
-
-
+[![Benny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BennyZhang-Codes&theme=minimal)](https://github.com/BennyZhang-Codes/BennyZhang-Codes)
 
 <!--
 

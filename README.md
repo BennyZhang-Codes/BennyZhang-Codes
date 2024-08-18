@@ -14,23 +14,17 @@
 <p align="left">
   <img src="https://cdn.pixabay.com/photo/2016/12/03/22/30/tiger-1880782_1280.png" width="450" class="centered">
 </p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BennyZhang-Codes" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BennyZhang-Codes&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BennyZhang-Codes&layout=compact&theme=transparent)
+
+[![BennyZhang-Codes GitHub stats](https://github-readme-stats.vercel.app/api?username=BennyZhang-Codes)](https://github.com/BennyZhang-Codes/BennyZhang-Codes)
 
 
 
 
 <!--
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BennyZhang-Codes&layout=compact&theme=transparent)
 
-[![BennyZhang-Codes GitHub stats](https://github-readme-stats.vercel.app/api?username=BennyZhang-Codes)](https://github.com/BennyZhang-Codes/BennyZhang-Codes)
 
 **BennyZhang-Codes/BennyZhang-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

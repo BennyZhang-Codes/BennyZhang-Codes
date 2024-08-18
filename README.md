@@ -1,10 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img src="https://cdn.pixabay.com/photo/2016/07/18/20/30/tiger-1526704_1280.png" width="500" class="centered">
-
-<a >
-  <img align="center" src="https://cdn.pixabay.com/photo/2016/07/18/20/30/tiger-1526704_1280.png" />
-</a>
+<img src="https://cdn.pixabay.com/photo/2016/12/03/22/30/tiger-1880782_1280.png" width="520" class="centered">
 <!--
 **BennyZhang-Codes/BennyZhang-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

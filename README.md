@@ -27,7 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BennyZhang-Codes&layout=compact&theme=transparent)
 
 [![Benny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BennyZhang-Codes&theme=minimal)](https://github.com/BennyZhang-Codes/BennyZhang-Codes)
-
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 <!--
 
 

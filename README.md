@@ -11,6 +11,8 @@
   </a>
 </p>
 
+![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg)
+
 <!-- 个人信息统计 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BennyZhang-Codes&show_icons=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennyZhang-Codes&layout=compact&theme=buefy&hide_border=true" />
 
@@ -26,11 +28,8 @@
 -->
 
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg)
+
 <!--
-
-
-
 **BennyZhang-Codes/BennyZhang-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
